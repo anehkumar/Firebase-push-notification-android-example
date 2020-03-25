@@ -1,0 +1,2 @@
+rootProject.name='Firebase push notification android'
+include ':app'
